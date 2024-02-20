@@ -1,0 +1,25 @@
+.nav-link{
+    margin-right: 30px;
+}
+.menu nav a{
+    font-weight: 600;
+    color: gray;
+}
+.about{
+    background-color: skyblue;
+    margin-right: 20px;
+    margin-top: 2px;
+}
+.heading{
+    text-align: center;
+}
+.tt{
+    border: 2px solid white;
+    margin-left: 80px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.tt h2{
+    text-align: center;
+    margin: 10px;
+}
